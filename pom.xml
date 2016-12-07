@@ -13,6 +13,11 @@
         	<name>Public online MVN repository</name>
         	<url>https://mvnrepository.com/</url>
     	</repository>
+        <repository>
+                <id>maven-repository</id>
+                <name>Public online MVN repository</name>
+                <url>https://maven-repository.com/</url>
+        </repository>
 	</repositories>
 	<dependencies>
 		<dependency>
