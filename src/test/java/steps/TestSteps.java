@@ -25,8 +25,8 @@ public class TestSteps {
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\zhuezo\\chromedriver_win32\\chromedriver.exe");
 		//dr = new ChromeDriver();
 		
-		//dr = new FirefoxDriver();
-		//dr.manage().window().maximize();
+		dr = new FirefoxDriver();
+		dr.manage().window().maximize();
 		dr.get("http://104.154.101.157/usuarios/login"); 
 	 }
 
