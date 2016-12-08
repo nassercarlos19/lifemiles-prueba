@@ -23,9 +23,9 @@ public class TestSteps {
 	 @Given("^I am in login page$")
 	 public void i_am_in_login_page() {
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\zhuezo\\chromedriver_win32\\chromedriver.exe");
-		//dr = new ChromeDriver();
+		dr = new ChromeDriver();
 		
-		dr = new FirefoxDriver();
+		//dr = new FirefoxDriver();
 		dr.manage().window().maximize();
 		dr.get("http://104.154.101.157/usuarios/login"); 
 	 }
