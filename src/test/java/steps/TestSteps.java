@@ -23,6 +23,7 @@ public class TestSteps {
 	 @Given("^I am in login page$")
 	 public void i_am_in_login_page() {
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\zhuezo\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver");
 		dr = new ChromeDriver();
 		
 		//dr = new FirefoxDriver();
