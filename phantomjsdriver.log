@@ -1,0 +1,357 @@
+[INFO  - 2016-12-14T15:50:23.840Z] GhostDriver - Main - running on port 22980
+[INFO  - 2016-12-14T15:50:24.291Z] Session [06a2c090-c215-11e6-b4d3-97713c25a9e3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T15:50:24.291Z] Session [06a2c090-c215-11e6-b4d3-97713c25a9e3] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T15:50:24.292Z] Session [06a2c090-c215-11e6-b4d3-97713c25a9e3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T15:50:24.293Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 06a2c090-c215-11e6-b4d3-97713c25a9e3
+[ERROR - 2016-12-14T15:50:24.840Z] Session [06a2c090-c215-11e6-b4d3-97713c25a9e3] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T15:50:24.846Z] Session [06a2c090-c215-11e6-b4d3-97713c25a9e3] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T15:50:24.946Z] Session [06a2c090-c215-11e6-b4d3-97713c25a9e3] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T15:50:24.947Z] Session [06a2c090-c215-11e6-b4d3-97713c25a9e3] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T15:50:46.865Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T15:50:49.760Z] GhostDriver - Main - running on port 6691
+[INFO  - 2016-12-14T15:50:50.439Z] Session [163877c0-c215-11e6-a7c3-65b3abf08310] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T15:50:50.439Z] Session [163877c0-c215-11e6-a7c3-65b3abf08310] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T15:50:50.440Z] Session [163877c0-c215-11e6-a7c3-65b3abf08310] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T15:50:50.440Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 163877c0-c215-11e6-a7c3-65b3abf08310
+[ERROR - 2016-12-14T15:50:50.646Z] Session [163877c0-c215-11e6-a7c3-65b3abf08310] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T15:50:50.646Z] Session [163877c0-c215-11e6-a7c3-65b3abf08310] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T15:50:50.678Z] Session [163877c0-c215-11e6-a7c3-65b3abf08310] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T15:50:50.679Z] Session [163877c0-c215-11e6-a7c3-65b3abf08310] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T15:51:10.185Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T15:51:12.850Z] GhostDriver - Main - running on port 33195
+[INFO  - 2016-12-14T15:51:12.902Z] Session [239c33c0-c215-11e6-a741-735cbc9958fb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T15:51:12.903Z] Session [239c33c0-c215-11e6-a741-735cbc9958fb] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T15:51:12.904Z] Session [239c33c0-c215-11e6-a741-735cbc9958fb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T15:51:12.904Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 239c33c0-c215-11e6-a741-735cbc9958fb
+[ERROR - 2016-12-14T15:51:13.128Z] Session [239c33c0-c215-11e6-a741-735cbc9958fb] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T15:51:13.129Z] Session [239c33c0-c215-11e6-a741-735cbc9958fb] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T15:51:13.159Z] Session [239c33c0-c215-11e6-a741-735cbc9958fb] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T15:51:13.159Z] Session [239c33c0-c215-11e6-a741-735cbc9958fb] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[ERROR - 2016-12-14T15:51:32.902Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1481730692838
+[INFO  - 2016-12-14T15:51:33.147Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:04:56.677Z] GhostDriver - Main - running on port 3226
+[INFO  - 2016-12-14T16:04:57.106Z] Session [0edf2440-c217-11e6-b169-358cb2bc34e2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:04:57.107Z] Session [0edf2440-c217-11e6-b169-358cb2bc34e2] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:04:57.107Z] Session [0edf2440-c217-11e6-b169-358cb2bc34e2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:04:57.108Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0edf2440-c217-11e6-b169-358cb2bc34e2
+[ERROR - 2016-12-14T16:04:57.594Z] Session [0edf2440-c217-11e6-b169-358cb2bc34e2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:04:57.594Z] Session [0edf2440-c217-11e6-b169-358cb2bc34e2] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:04:57.635Z] Session [0edf2440-c217-11e6-b169-358cb2bc34e2] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:04:57.635Z] Session [0edf2440-c217-11e6-b169-358cb2bc34e2] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:05:03.619Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:05:06.546Z] GhostDriver - Main - running on port 44444
+[INFO  - 2016-12-14T16:05:07.204Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:05:07.204Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:05:07.205Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:05:07.205Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 14e46e90-c217-11e6-8aa7-4f24aac05c2a
+[ERROR - 2016-12-14T16:05:07.443Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:05:07.446Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:05:07.477Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:05:07.478Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[ERROR - 2016-12-14T16:05:07.920Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:05:07.920Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:05:07.930Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:05:07.930Z] Session [14e46e90-c217-11e6-8aa7-4f24aac05c2a] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:05:08.028Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:05:10.664Z] GhostDriver - Main - running on port 41155
+[INFO  - 2016-12-14T16:05:10.749Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:05:10.750Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:05:10.750Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:05:10.751Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 17015b20-c217-11e6-b50f-47b38c7b7314
+[ERROR - 2016-12-14T16:05:10.988Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:05:10.989Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:05:11.016Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:05:11.017Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[ERROR - 2016-12-14T16:05:11.400Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:05:11.400Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:05:11.412Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:05:11.412Z] Session [17015b20-c217-11e6-b50f-47b38c7b7314] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:05:11.524Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:06:04.005Z] GhostDriver - Main - running on port 32003
+[INFO  - 2016-12-14T16:06:04.362Z] Session [36f570b0-c217-11e6-9b9a-8337e5559427] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:06:04.362Z] Session [36f570b0-c217-11e6-9b9a-8337e5559427] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:06:04.363Z] Session [36f570b0-c217-11e6-9b9a-8337e5559427] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:06:04.363Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 36f570b0-c217-11e6-9b9a-8337e5559427
+[ERROR - 2016-12-14T16:06:04.847Z] Session [36f570b0-c217-11e6-9b9a-8337e5559427] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:06:04.847Z] Session [36f570b0-c217-11e6-9b9a-8337e5559427] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:06:04.883Z] Session [36f570b0-c217-11e6-9b9a-8337e5559427] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:06:04.885Z] Session [36f570b0-c217-11e6-9b9a-8337e5559427] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:06:05.790Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:06:09.253Z] GhostDriver - Main - running on port 22827
+[INFO  - 2016-12-14T16:06:09.744Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:06:09.744Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:06:09.744Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:06:09.745Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3a2b2040-c217-11e6-9aa6-b93bd9c608ec
+[ERROR - 2016-12-14T16:06:09.977Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:06:09.977Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:06:10.013Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:06:10.013Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[ERROR - 2016-12-14T16:06:10.407Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:06:10.407Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:06:10.420Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:06:10.420Z] Session [3a2b2040-c217-11e6-9aa6-b93bd9c608ec] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:06:10.541Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:27:50.583Z] GhostDriver - Main - running on port 34299
+[INFO  - 2016-12-14T16:27:50.970Z] Session [41c29bf0-c21a-11e6-9f6f-5362a1b2951c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:27:50.970Z] Session [41c29bf0-c21a-11e6-9f6f-5362a1b2951c] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:27:50.970Z] Session [41c29bf0-c21a-11e6-9f6f-5362a1b2951c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:27:50.971Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 41c29bf0-c21a-11e6-9f6f-5362a1b2951c
+[ERROR - 2016-12-14T16:27:51.464Z] Session [41c29bf0-c21a-11e6-9f6f-5362a1b2951c] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:27:51.465Z] Session [41c29bf0-c21a-11e6-9f6f-5362a1b2951c] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:27:51.515Z] Session [41c29bf0-c21a-11e6-9f6f-5362a1b2951c] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:27:51.516Z] Session [41c29bf0-c21a-11e6-9f6f-5362a1b2951c] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:27:52.467Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:27:55.940Z] GhostDriver - Main - running on port 45414
+[INFO  - 2016-12-14T16:27:56.028Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:27:56.029Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:27:56.029Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:27:56.029Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 44c617f0-c21a-11e6-99d7-338486b651d6
+[ERROR - 2016-12-14T16:27:56.238Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:27:56.239Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:27:56.267Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:27:56.267Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[ERROR - 2016-12-14T16:27:56.710Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:27:56.710Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:27:56.722Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:27:56.723Z] Session [44c617f0-c21a-11e6-99d7-338486b651d6] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:27:56.832Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:30:01.491Z] GhostDriver - Main - running on port 33938
+[INFO  - 2016-12-14T16:30:01.855Z] Session [8fc54ff0-c21a-11e6-8104-2f1fbdbc1280] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:30:01.855Z] Session [8fc54ff0-c21a-11e6-8104-2f1fbdbc1280] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:30:01.855Z] Session [8fc54ff0-c21a-11e6-8104-2f1fbdbc1280] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:30:01.856Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8fc54ff0-c21a-11e6-8104-2f1fbdbc1280
+[ERROR - 2016-12-14T16:30:02.301Z] Session [8fc54ff0-c21a-11e6-8104-2f1fbdbc1280] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:30:02.301Z] Session [8fc54ff0-c21a-11e6-8104-2f1fbdbc1280] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:30:02.347Z] Session [8fc54ff0-c21a-11e6-8104-2f1fbdbc1280] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:30:02.347Z] Session [8fc54ff0-c21a-11e6-8104-2f1fbdbc1280] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:30:03.368Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:30:06.200Z] GhostDriver - Main - running on port 5066
+[INFO  - 2016-12-14T16:30:06.267Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:30:06.267Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:30:06.267Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:30:06.267Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 92674b00-c21a-11e6-99fe-6778e0b563ac
+[ERROR - 2016-12-14T16:30:06.529Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:30:06.530Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:30:06.557Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:30:06.557Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[ERROR - 2016-12-14T16:30:06.959Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:30:06.960Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:30:06.972Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:30:06.973Z] Session [92674b00-c21a-11e6-99fe-6778e0b563ac] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:30:07.071Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:30:10.101Z] GhostDriver - Main - running on port 3595
+[INFO  - 2016-12-14T16:30:10.240Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:30:10.240Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:30:10.240Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:30:10.241Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 94c58650-c21a-11e6-90ae-4d5e7c6e9508
+[ERROR - 2016-12-14T16:30:10.523Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:30:10.524Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:30:10.569Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:30:10.570Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[ERROR - 2016-12-14T16:30:11.075Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:30:11.075Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:30:11.085Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:30:11.085Z] Session [94c58650-c21a-11e6-90ae-4d5e7c6e9508] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:30:11.210Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:30:45.796Z] GhostDriver - Main - running on port 45856
+[INFO  - 2016-12-14T16:30:46.162Z] Session [aa2ef080-c21a-11e6-b89e-1bd4276ed7a0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:30:46.163Z] Session [aa2ef080-c21a-11e6-b89e-1bd4276ed7a0] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:30:46.163Z] Session [aa2ef080-c21a-11e6-b89e-1bd4276ed7a0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:30:46.164Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: aa2ef080-c21a-11e6-b89e-1bd4276ed7a0
+[ERROR - 2016-12-14T16:30:46.607Z] Session [aa2ef080-c21a-11e6-b89e-1bd4276ed7a0] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:30:46.613Z] Session [aa2ef080-c21a-11e6-b89e-1bd4276ed7a0] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:30:46.653Z] Session [aa2ef080-c21a-11e6-b89e-1bd4276ed7a0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:30:46.653Z] Session [aa2ef080-c21a-11e6-b89e-1bd4276ed7a0] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:30:47.678Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:30:50.461Z] GhostDriver - Main - running on port 17706
+[INFO  - 2016-12-14T16:30:50.526Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:30:50.527Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:30:50.527Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:30:50.527Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: acc8d540-c21a-11e6-95af-1bce3de5bfc8
+[ERROR - 2016-12-14T16:30:50.727Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:30:50.728Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:30:50.755Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:30:50.756Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[ERROR - 2016-12-14T16:30:51.143Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:30:51.144Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:30:51.157Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:30:51.158Z] Session [acc8d540-c21a-11e6-95af-1bce3de5bfc8] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:30:51.271Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:31:56.475Z] GhostDriver - Main - running on port 3644
+[INFO  - 2016-12-14T16:31:56.794Z] Session [d4485ff0-c21a-11e6-bc1a-fba52a46596b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:31:56.794Z] Session [d4485ff0-c21a-11e6-bc1a-fba52a46596b] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:31:56.794Z] Session [d4485ff0-c21a-11e6-bc1a-fba52a46596b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:31:56.795Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d4485ff0-c21a-11e6-bc1a-fba52a46596b
+[ERROR - 2016-12-14T16:31:57.966Z] Session [d4485ff0-c21a-11e6-bc1a-fba52a46596b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:31:57.966Z] Session [d4485ff0-c21a-11e6-bc1a-fba52a46596b] - page.onError - stack:
+  global code (http://104.154.101.157/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:31:58.001Z] Session [d4485ff0-c21a-11e6-bc1a-fba52a46596b] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:31:58.002Z] Session [d4485ff0-c21a-11e6-bc1a-fba52a46596b] - page.onError - stack:
+  onload (http://104.154.101.157/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:31:59.488Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:32:02.803Z] GhostDriver - Main - running on port 35485
+[INFO  - 2016-12-14T16:32:02.879Z] Session [d7e8b830-c21a-11e6-a8d1-97f0eb3cf9e5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:32:02.879Z] Session [d7e8b830-c21a-11e6-a8d1-97f0eb3cf9e5] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:32:02.879Z] Session [d7e8b830-c21a-11e6-a8d1-97f0eb3cf9e5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:32:02.880Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d7e8b830-c21a-11e6-a8d1-97f0eb3cf9e5
+[ERROR - 2016-12-14T16:32:03.926Z] Session [d7e8b830-c21a-11e6-a8d1-97f0eb3cf9e5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:32:03.927Z] Session [d7e8b830-c21a-11e6-a8d1-97f0eb3cf9e5] - page.onError - stack:
+  global code (http://104.154.101.157/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:32:04.719Z] Session [d7e8b830-c21a-11e6-a8d1-97f0eb3cf9e5] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:32:04.719Z] Session [d7e8b830-c21a-11e6-a8d1-97f0eb3cf9e5] - page.onError - stack:
+  onload (http://104.154.101.157/js/chart-data.js:108)
+[ERROR - 2016-12-14T16:32:06.064Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1481733126057
+[INFO  - 2016-12-14T16:32:06.281Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:33:37.254Z] GhostDriver - Main - running on port 32654
+[INFO  - 2016-12-14T16:33:37.585Z] Session [105bdc60-c21b-11e6-a043-596b217190d4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:33:37.585Z] Session [105bdc60-c21b-11e6-a043-596b217190d4] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:33:37.585Z] Session [105bdc60-c21b-11e6-a043-596b217190d4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:33:37.585Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 105bdc60-c21b-11e6-a043-596b217190d4
+[ERROR - 2016-12-14T16:33:38.779Z] Session [105bdc60-c21b-11e6-a043-596b217190d4] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:33:38.779Z] Session [105bdc60-c21b-11e6-a043-596b217190d4] - page.onError - stack:
+  global code (http://104.154.101.157/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:33:38.831Z] Session [105bdc60-c21b-11e6-a043-596b217190d4] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:33:38.831Z] Session [105bdc60-c21b-11e6-a043-596b217190d4] - page.onError - stack:
+  onload (http://104.154.101.157/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:33:40.020Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:33:42.818Z] GhostDriver - Main - running on port 7789
+[INFO  - 2016-12-14T16:33:42.895Z] Session [13861a40-c21b-11e6-8882-f1a7316de8bc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:33:42.896Z] Session [13861a40-c21b-11e6-8882-f1a7316de8bc] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:33:42.896Z] Session [13861a40-c21b-11e6-8882-f1a7316de8bc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:33:42.897Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 13861a40-c21b-11e6-8882-f1a7316de8bc
+[ERROR - 2016-12-14T16:33:43.756Z] Session [13861a40-c21b-11e6-8882-f1a7316de8bc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:33:43.756Z] Session [13861a40-c21b-11e6-8882-f1a7316de8bc] - page.onError - stack:
+  global code (http://104.154.101.157/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:33:43.775Z] Session [13861a40-c21b-11e6-8882-f1a7316de8bc] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:33:43.776Z] Session [13861a40-c21b-11e6-8882-f1a7316de8bc] - page.onError - stack:
+  onload (http://104.154.101.157/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:33:45.031Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:36:42.699Z] GhostDriver - Main - running on port 9375
+[INFO  - 2016-12-14T16:36:43.478Z] Session [7f289390-c21b-11e6-bf9c-ef552ac15c20] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:36:43.478Z] Session [7f289390-c21b-11e6-bf9c-ef552ac15c20] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:36:43.479Z] Session [7f289390-c21b-11e6-bf9c-ef552ac15c20] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:36:43.479Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7f289390-c21b-11e6-bf9c-ef552ac15c20
+[ERROR - 2016-12-14T16:36:44.664Z] Session [7f289390-c21b-11e6-bf9c-ef552ac15c20] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:36:44.665Z] Session [7f289390-c21b-11e6-bf9c-ef552ac15c20] - page.onError - stack:
+  global code (http://104.154.101.157/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:36:44.702Z] Session [7f289390-c21b-11e6-bf9c-ef552ac15c20] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:36:44.702Z] Session [7f289390-c21b-11e6-bf9c-ef552ac15c20] - page.onError - stack:
+  onload (http://104.154.101.157/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:36:45.915Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:36:49.495Z] GhostDriver - Main - running on port 37114
+[INFO  - 2016-12-14T16:36:50.179Z] Session [83278690-c21b-11e6-852f-a1f50ea97d73] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:36:50.180Z] Session [83278690-c21b-11e6-852f-a1f50ea97d73] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:36:50.180Z] Session [83278690-c21b-11e6-852f-a1f50ea97d73] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:36:50.180Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 83278690-c21b-11e6-852f-a1f50ea97d73
+[ERROR - 2016-12-14T16:36:52.493Z] Session [83278690-c21b-11e6-852f-a1f50ea97d73] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:36:52.493Z] Session [83278690-c21b-11e6-852f-a1f50ea97d73] - page.onError - stack:
+  global code (http://104.154.101.157/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:36:52.512Z] Session [83278690-c21b-11e6-852f-a1f50ea97d73] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:36:52.513Z] Session [83278690-c21b-11e6-852f-a1f50ea97d73] - page.onError - stack:
+  onload (http://104.154.101.157/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:36:53.963Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:41:39.142Z] GhostDriver - Main - running on port 35787
+[INFO  - 2016-12-14T16:41:40.024Z] Session [2fea5ce0-c21c-11e6-877f-61ce4c1d31a1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:41:40.025Z] Session [2fea5ce0-c21c-11e6-877f-61ce4c1d31a1] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:41:40.025Z] Session [2fea5ce0-c21c-11e6-877f-61ce4c1d31a1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:41:40.025Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2fea5ce0-c21c-11e6-877f-61ce4c1d31a1
+[ERROR - 2016-12-14T16:41:40.478Z] Session [2fea5ce0-c21c-11e6-877f-61ce4c1d31a1] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:41:40.479Z] Session [2fea5ce0-c21c-11e6-877f-61ce4c1d31a1] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:41:40.528Z] Session [2fea5ce0-c21c-11e6-877f-61ce4c1d31a1] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:41:40.529Z] Session [2fea5ce0-c21c-11e6-877f-61ce4c1d31a1] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:41:41.504Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-12-14T16:41:44.351Z] GhostDriver - Main - running on port 35281
+[INFO  - 2016-12-14T16:41:44.397Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-14T16:41:44.397Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - page.customHeaders:  - {}
+[INFO  - 2016-12-14T16:41:44.397Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-14T16:41:44.398Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 32857a20-c21c-11e6-b57f-29b36107edb0
+[ERROR - 2016-12-14T16:41:44.649Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:41:44.650Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:41:44.686Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:41:44.687Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[ERROR - 2016-12-14T16:41:45.089Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#calendar').datepicker({
+	})')
+[ERROR - 2016-12-14T16:41:45.089Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - page.onError - stack:
+  global code (http://localhost:81/js/easypiechart-data.js:29)
+[ERROR - 2016-12-14T16:41:45.101Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById("line-chart").getContext')
+[ERROR - 2016-12-14T16:41:45.101Z] Session [32857a20-c21c-11e6-b57f-29b36107edb0] - page.onError - stack:
+  onload (http://localhost:81/js/chart-data.js:108)
+[INFO  - 2016-12-14T16:41:45.196Z] ShutdownReqHand - _handle - About to shutdown
