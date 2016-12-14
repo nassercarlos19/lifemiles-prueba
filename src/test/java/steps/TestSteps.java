@@ -34,7 +34,7 @@ public class TestSteps {
 	@Before
 	public void beforeScenario() {
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\zhuezo\\chromedriver_win32\\chromedriver.exe");
-		File src = new File("C:\\Users\\zhuezo\\phantomjs-2.1.1-windows\\bin\\phantomjs.exe");
+		File src = new File("~/phantomjs-2.1.1/bin/phantomjs");
 		System.setProperty("phantomjs.binary.path", src.getAbsolutePath());
 		dr = new PhantomJSDriver();
 		//dr = new ChromeDriver();
