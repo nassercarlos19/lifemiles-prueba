@@ -5,7 +5,7 @@ Background:
 
 Scenario Outline: Login with a valid credentials
 	Given I  enter Username as "<user>" and password "<pass>" And I press Login
-	Then Login Success "http://104.154.101.157/usuarios/loginAction"
+	Then Login Success "http://104.154.101.157/usuarios/home"
 	
 Examples: sample data
 	|user|pass|
