@@ -46,9 +46,9 @@ public class TestSteps {
 		//dr.get("http://104.154.101.157/usuarios/login");
 	 }
 	 @Given("^I  enter Username as \"([^\"]*)\" and password \"([^\"]*)\" And I press Login$")
-	 public void i_enter_username_as_something_and_password_something_and_i_press_login(String username, String password) throws Throwable {
-		 dr.findElement(By.id("username")).sendKeys(username); 
-		 dr.findElement(By.id("password")).sendKeys(password);  
+	 public void i_enter_username_as_something_and_password_something_and_i_press_login(String user, String pass) throws Throwable {
+		 dr.findElement(By.id("username")).sendKeys(user); 
+		 dr.findElement(By.id("password")).sendKeys(pass);  
 		 dr.findElement(By.className("btn-primary")).submit();
 	 
 	 }
